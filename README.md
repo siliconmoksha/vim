@@ -1,2 +1,2 @@
 # My Vim Virtuoso
-⚙️ This repository holds the very essence of my Vim mastery, a meticulously sculpted configuration designed to transform the powerful editor into an extension of thought itself. It's more than just settings; it's a living script, continuously refined to unlock unparalleled speed, fluid navigation, and sublime efficiency, turning every line of code into a seamless act of creation.
+⚙️ This meticulously sculpted configuration is designed to transform the powerful editor into an extension of thought itself, continuously refined to unlock unparalleled speed, fluid navigation, and sublime efficiency, turning every line of code into a seamless act of creation.
